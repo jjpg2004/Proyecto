@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(65, 173, 177);
+}
+
+#logo {
+    font-size: 500%;
+    text-align: center;
+}
+
+#menu {
+    font-size: 200%;
+    color: indigo
+}
+
+#main {
+    font-size: 150%;
+}
+
+h1 {
+    color: indigo;
+}
+
+p {
+    color: darkgreen;
+}
+
+#proyectos {
+    color: indigo;
+}
+
+#h2-1 {
+    color: darkblue;
+}
+
+#h2-2 {
+    color: darkblue;
+}
+
+#h2-3 {
+    color: darkblue;
+}
+
+#h2-4 {
+    color: indigo;
+}
+
+#h2-5 {
+    color: indigo;
+}
+
+section {
+    color: darkblue
+}
